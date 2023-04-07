@@ -136,3 +136,6 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_RESETPROP := true
 TW_INCLUDE_NTFS_3G := true
+
+# PBRP Flags
+PB_TORCH_PATH := "/tmp/flashlight"
